@@ -1,0 +1,10 @@
+C:\Users\MyBook Z Series\pendataan_pariwisata\target\debug\deps\libgetrandom-fb27992caaeb1921.rmeta: C:\Users\MyBook\ Z\ Series\.cargo\registry\src\index.crates.io-6f17d22bba15001f\getrandom-0.2.11\src\lib.rs C:\Users\MyBook\ Z\ Series\.cargo\registry\src\index.crates.io-6f17d22bba15001f\getrandom-0.2.11\src\error.rs C:\Users\MyBook\ Z\ Series\.cargo\registry\src\index.crates.io-6f17d22bba15001f\getrandom-0.2.11\src\util.rs C:\Users\MyBook\ Z\ Series\.cargo\registry\src\index.crates.io-6f17d22bba15001f\getrandom-0.2.11\src\windows.rs
+
+C:\Users\MyBook Z Series\pendataan_pariwisata\target\debug\deps\libgetrandom-fb27992caaeb1921.rlib: C:\Users\MyBook\ Z\ Series\.cargo\registry\src\index.crates.io-6f17d22bba15001f\getrandom-0.2.11\src\lib.rs C:\Users\MyBook\ Z\ Series\.cargo\registry\src\index.crates.io-6f17d22bba15001f\getrandom-0.2.11\src\error.rs C:\Users\MyBook\ Z\ Series\.cargo\registry\src\index.crates.io-6f17d22bba15001f\getrandom-0.2.11\src\util.rs C:\Users\MyBook\ Z\ Series\.cargo\registry\src\index.crates.io-6f17d22bba15001f\getrandom-0.2.11\src\windows.rs
+
+C:\Users\MyBook Z Series\pendataan_pariwisata\target\debug\deps\getrandom-fb27992caaeb1921.d: C:\Users\MyBook\ Z\ Series\.cargo\registry\src\index.crates.io-6f17d22bba15001f\getrandom-0.2.11\src\lib.rs C:\Users\MyBook\ Z\ Series\.cargo\registry\src\index.crates.io-6f17d22bba15001f\getrandom-0.2.11\src\error.rs C:\Users\MyBook\ Z\ Series\.cargo\registry\src\index.crates.io-6f17d22bba15001f\getrandom-0.2.11\src\util.rs C:\Users\MyBook\ Z\ Series\.cargo\registry\src\index.crates.io-6f17d22bba15001f\getrandom-0.2.11\src\windows.rs
+
+C:\Users\MyBook\ Z\ Series\.cargo\registry\src\index.crates.io-6f17d22bba15001f\getrandom-0.2.11\src\lib.rs:
+C:\Users\MyBook\ Z\ Series\.cargo\registry\src\index.crates.io-6f17d22bba15001f\getrandom-0.2.11\src\error.rs:
+C:\Users\MyBook\ Z\ Series\.cargo\registry\src\index.crates.io-6f17d22bba15001f\getrandom-0.2.11\src\util.rs:
+C:\Users\MyBook\ Z\ Series\.cargo\registry\src\index.crates.io-6f17d22bba15001f\getrandom-0.2.11\src\windows.rs:
